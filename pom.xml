@@ -132,7 +132,8 @@
         <gephi.maven.requiredVersion>3.6.3</gephi.maven.requiredVersion>
         <netbeans.run.params.ide/>
         <netbeans.run.params>${netbeans.run.params.ide}</netbeans.run.params>
-        
+        <sonar.organization>and333r</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <!-- Netbeans Platform version -->
         <netbeans.version>RELEASE160</netbeans.version>
         
